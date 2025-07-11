@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Goyal</h1>
 <h3 align="center">I am a B.Tech student who finds coding fun and always willing to learn.</h3>
-<img align="right"alt="coding"width="400"src="/HTML/coder.mp4">
+<img align="right"alt="coding"width="400"src="/coder.mp4">
 
 - 🌱 I’m currently learning **🌍 Global Languages: Enhancing my multilingual capabilities for more inclusive solutions.**
 
